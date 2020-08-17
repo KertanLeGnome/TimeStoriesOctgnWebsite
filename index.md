@@ -7,7 +7,7 @@ All the sets (even some of the official expansion) will be distributed with the 
 ## Image packs
 
 # Placeholder Scenario 1
-**Author:** Obi-Wan Kenobi
-**Setting :** A long time ago in a galaxy far far away
-[**Bgg page**](https://boardgamegeek.com/boardgame/146508/time-stories)
-[Image pack](scenario1)
+**Author:** Obi-Wan Kenobi  
+**Setting :** A long time ago in a galaxy far far away  
+[**Bgg page**](https://boardgamegeek.com/boardgame/146508/time-stories)  
+[Image pack](scenario1)  
