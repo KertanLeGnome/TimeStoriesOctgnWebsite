@@ -16,7 +16,7 @@ There are 5 columns in this excel file, leave unneeded parameters empty.
 
 There are several type of cards available to you:
 * **Location** Cards that will deploy on the a-h spaces
-* **Element** Self-explenatory
+* **Element** Self-explainatory
 * **Plan** Initial map cards
 * **Conclusion** Card to read at the end of a run
 * **Receptacle** Initial receptacle cards
@@ -25,7 +25,7 @@ There are several type of cards available to you:
 
 Location cards need to have a Location name in the "Location" column, such as "Base" or "Tavern". Players will open location based on this name so make sure it is the same than on the map.  
 The Space column is required for "Location" and "Plan" card. For location, it refers to which space (from a to h) where the card will go once the location is opened. For the map cards you need to set "tl", "tr", "bl", "br" repectively for top left, top right, botton left and bottom right map cards.     
-If your scenario implement phases such as prophecy of dragon or expedition endurance please indicate the phase number of each location. If you don't provide a phase number it will be accessible during all phases. You can also set phase number for the map cards if you different phases uses a different map. Players won't be able to open location with a different phase than there are on.  
+If your scenario implement phases such as prophecy of dragon or expedition endurance please indicate the phase number of each location. If you don't provide a phase number it will be accessible during all phases. You can also set phase number for the map cards if you different phases uses a different map. Players won't be able to open location with a different phase than there are on. If you have receptacle, codex, reminder or conclusion cards attached to a specified phase, put them in an empty codex.
 Finally for each element card please provide it's nmber so that player can use the in game form to directly retrieve the good element card.
 
 For the images all I need is all the cards backs numbered 1b, 2b, 3b ... and all the front numbered from 1f, 2f, 3f ...  
