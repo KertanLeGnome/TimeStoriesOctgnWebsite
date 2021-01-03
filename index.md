@@ -6,8 +6,9 @@ All the sets (even some of the official expansion) will be distributed with the 
 
 ## Image packs
 
-# Placeholder Scenario 1
-**Author:** Obi-Wan Kenobi  
-**Setting :** A long time ago in a galaxy far far away  
-[**Bgg page**](https://boardgamegeek.com/boardgame/146508/time-stories)  
-[Image pack](scenario1)  
+# City of Souls
+![Cover City of Souls](CityofSoulsCover.jpg "Cover City of Souls")
+**Author:** [Steph Pearce](https://boardgamegeek.com/user/stephaniepa)
+**Setting :** Death Valley, CA USA (1970 N.T.)
+[**Bgg page**](https://boardgamegeek.com/boardgame/263357/city-souls-fan-expansion-time-stories)  
+[Image pack](https://drive.google.com/file/d/11Pb02dESu9FR39222rHdFujOPO86GIZ0/view?usp=sharing)  
