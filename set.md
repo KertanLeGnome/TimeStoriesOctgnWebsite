@@ -1,8 +1,10 @@
 ## How to add your expansion in the package
 
+For a translation the excel file is not required, just send me the images as specified below. 
+
 If you have any question or if your expansion doesn't fit with the provided framework, please contact me on bgg to see if I can make it work.  
 
-I only need two things to be able to include your expansion into the game. First of all I need an excel (or equivalent) file containing all the cards in the expansion. Here is an exemple of the file for prophecy of dragon:
+I only need two things to be able to include your expansion into the game. First of all I need an excel (or equivalent) file containing a list of all the cards in the expansion. Here is an exemple of the file for prophecy of dragon:
 
 ![exemple excel file](cards.PNG "Exemple excel file")
 
@@ -23,10 +25,11 @@ There are several type of cards available to you:
 * **Reminder** Cards use for remembering symbols or special rules
 * **CodexX** Cards placed in codex X (1 to 6 for now in case you need more than 4).
 
-Location cards need to have a Location name in the "Location" column, such as "Base" or "Tavern". Players will open location based on this name so make sure it is the same than on the map.  
-The Space column is required for "Location" and "Plan" card. For location, it refers to which space (from a to h) where the card will go once the location is opened. For the map cards you need to set "tl", "tr", "bl", "br" repectively for top left, top right, botton left and bottom right map cards.     
+Location cards need to have a Location name in the "Location" column, such as "Base" or "Tavern". Players will open location based on this name so make sure it is the same than on the map, for location such as "Location 9 - Secret chamber" just put "Location 9".  
+The Space column is required for "Location" and "Plan" card. For location, it refers to which space (from a to h) where the card will go once the location is opened (you can have multiple cards in the same space for a location). For the map cards you need to set "tl", "tr", "bl", "br" repectively for top left, top right, botton left and bottom right map cards.     
+
 If your scenario implement phases such as prophecy of dragon or expedition endurance please indicate the phase number of each location. If you don't provide a phase number it will be accessible during all phases. You can also set phase number for the map cards if you different phases uses a different map. Players won't be able to open location with a different phase than there are on. If you have receptacle, codex, reminder or conclusion cards attached to a specified phase, put them in an empty codex.
-Finally for each element card please provide it's nmber so that player can use the in game form to directly retrieve the good element card.
+Finally for each element card please provide it's number so that player can use the in game prompt to directly retrieve the right element card.
 
 For the images all I need is all the cards backs numbered 1b, 2b, 3b ... and all the front numbered from 1f, 2f, 3f ...  
 The back of the card is the unrevealed side while the front is the revealed side. 
