@@ -19,7 +19,7 @@ Open generateo8d.py with a text editor like notepad and change the first few lin
 
 fileName = "AsylumUUID.csv" <- name of the identifier file  
 imageFolder = "asylumImage/" <- name of the folder containing all your images  
-setName = "Asylum"
-language = "French"
+setName = "Asylum"  
+language = "French"  
 
 Finally, open a console in the folder containing generateo8d.py and type the command "python ./generateo8d.py". This script should output you with a usable image pack (a file of type o8d called something like Asylum (French).o8d. 
