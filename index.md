@@ -4,7 +4,7 @@ Welcome Time agent! Here you'll find image packages for fan-made expansions of T
 
 All the sets (even some of the official expansions) are distributed with the game package directly when installed in octgn. However, the image packs need to be added or else all cards appears blank. I wont provide image packs for official expansions as I do not have the rights to do so, you will need to scan your own cards. A way to generate image packs from scanned cards can be found [here](scan).  
 
-For an explanation on how to play, please listen to this [video](https://youtu.be/1BfAQhgxoBU).  
+For an explanation on how to play, please listen to this [video](https://youtu.be/rvU8uS3gP_c).  
 
 ## Image packs
 
